@@ -24,7 +24,7 @@ twitter_username: sebastianmujica
 github_username: sebastianmujica
 minimal_mistakes_skin: dark
 search: true
-
+locale: es-ES
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
